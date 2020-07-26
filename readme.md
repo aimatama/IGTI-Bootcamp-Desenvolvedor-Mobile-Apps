@@ -11,11 +11,10 @@ Jul/Ago/Set 2020.
 Iniciado em Julho de 2020.
 
 ## Conteúdo do Repositório
-- Folder: Aula
-  - IntroduçãoJSonRest
+- :file_folder: Aula/IntroduçãoJSonRest
     - Exemplo de arquivo no formato JSON
 	
-- Folder: TrabalhoPratico
+- :file_folder: TrabalhoPratico
 
 ## Sobre o Bootcamp
 
