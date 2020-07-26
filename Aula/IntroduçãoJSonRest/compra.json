@@ -1,0 +1,41 @@
+{
+  "id": 1,
+  "nome": "André Idalgo Matama",
+  "nascimento": "1981-05-01",
+  "notasFiscais": [
+    {
+      "id": 1313,
+      "dataCompra": "2020/07/26",
+      "entregue": false,
+      "items": [
+        {
+          "id": 1234,
+          "valorUnitario": 15.1,
+          "quantidade": 4
+        },
+        {
+          "id": 1257,
+          "valorUnitario": 20.6,
+          "quantidade": 5
+        },
+        {
+          "id": 541,
+          "valorUnitario": 9.06,
+          "quantidade": 1
+        }
+      ]
+    },
+    {
+      "id": 1314,
+      "dataCompra": "2020/07/27",
+      "entregue": true,
+      "items": [
+        {
+          "id": 1234,
+          "valorUnitario": 15.1,
+          "quantidade": 4
+        }
+      ]
+    }
+  ]
+}
